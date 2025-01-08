@@ -1,4 +1,4 @@
-# PDF_To_EXCEL_INVOICES
+# Multiple_PDFS_To_EXCEL_By_Using_Python
 In this repository there is code for extract the data from pdf to excel for Invoices. You can follow this Repository as per you need.
 # PDF to Excel Data Extractor
 
